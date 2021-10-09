@@ -11,8 +11,12 @@ I'm a full stack software engineer who like building tooling web apps and mobile
 ## Skills 
 
 ```javascript
-const skills = ['Html5' , 'Css3' , 'Javascript' ,'Node.js','Express','React','Redux-sage','React-Native','Angular','Vue','Java' , 'AWS', 'Docker' ] ;
-const generalConcept =['Frontend','Backend','RESTFUL','GRAPHQL','Design Pattern','Clean Code','MicroService' , 'CI/CD'];
+const skills = ['Html5' , 'Css3' , 'Javascript' ,'Node.js',
+                'Express','React','Redux-sage','React-Native',
+                'Angular','Vue','Java' , 'AWS', 'Docker' ] ;
+const generalConcept =['Frontend','Backend','RESTFUL',
+                       'GRAPHQL','Design Pattern','Clean Code',
+                       'MicroService' , 'CI/CD'];
 ``` 
 
 
