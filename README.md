@@ -8,8 +8,12 @@ I'm a full stack software engineer who like building tooling web apps and mobile
 
 <div align="center"> <br> <br> <img  src="https://i.pinimg.com/originals/4b/4c/98/4b4c985ec54cbbb6f95e6762a8fcb898.gif" width="300" /> </div>
 
+## Skills 
 
-
+```javascript
+const skills = ['Html5' , 'Css3' , 'Javascript' ,'Node.js','Express','React','Redux-sage','React-Native','Angular','Vue','Java' , 'AWS', 'Docker' ] ;
+const generalConcept =['Frontend','Backend','RESTFUL','GRAPHQL','Design Pattern','Clean Code','MicroService' , 'CI/CD'];
+``` 
 
 
 <!--
