@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I'm Eslam Genedy 👋🐱‍💻
+
+[![Linkedin: Eslam Genedy](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eslam-genedy-928b86113/)](https://www.linkedin.com/in/eslam-genedy-928b86113/)
+[![FacebookProfile: Genedy97](https://img.shields.io/badge/Add-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/eslam.genedy.9/)](https://www.facebook.com/eslam.genedy.9)
 
 <!--
 **genedy377/genedy377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
