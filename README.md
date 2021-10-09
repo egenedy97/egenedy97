@@ -14,12 +14,21 @@ I'm a full stack software engineer who like building tooling web apps and mobile
 const skills = ['Html5' , 'Css3' , 'Javascript' ,'Node.js',
                 'Express','React','Redux-sage','React-Native',
                 'Angular','Vue','Java' , 'AWS', 'Docker' ] ;
+                
+                
 const generalConcept =['Frontend','Backend','RESTFUL',
                        'GRAPHQL','Design Pattern','Clean Code',
                        'MicroService' , 'CI/CD'];
 ``` 
 
+## Working 
+I'm currently available for work ; 
 
+## Learning 
+I'm currently learning Cloud Computing and CryptoGraphy 
+
+## Looking
+I am looking for some help to contribute an open source 
 <!--
 **genedy377/genedy377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
