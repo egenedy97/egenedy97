@@ -22,11 +22,10 @@ const generalConcept =['Frontend','Backend','RESTFUL',
 ``` 
 
 ## Working 
-I'm currently available for work ; 
+I'm currently working at qpix and I hope to get more knowledge ; 
 
 ## Learning 
-I'm currently learning Cloud Computing and CryptoGraphy 
-
+apollo-client , stream-interactive-video , Test Driven Domain
 ## Looking
 I am looking for some help to contribute an open source 
 <!--
