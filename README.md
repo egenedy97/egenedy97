@@ -6,7 +6,9 @@
 ## Bio 
 I'm a full stack software engineer who like building tooling web apps and mobile apps to help my team automate their daily tasks.I am so interested in javascript and its framework specially in React , Node and Angular .
 
-<div align="center"> <br> <br> <img  src="https://i.pinimg.com/originals/4b/4c/98/4b4c985ec54cbbb6f95e6762a8fcb898.gif" width="300" /> </div>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 
 ## Skills 
 
