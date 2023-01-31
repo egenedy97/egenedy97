@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 ## :zap: Github Stats
 
-<img alt="egenedy97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=genedy377&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs" />
+<img alt="egenedy97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=egenedy97&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs" />
