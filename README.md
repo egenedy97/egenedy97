@@ -26,12 +26,14 @@ const generalConcept =['Frontend','Backend','RESTFUL',
 ## Working 
 I'm currently working at qpix and I hope to get more knowledge ; 
 
+
 ## Learning 
 apollo-client , stream-interactive-video , Test Driven Domain
 ## Looking
 I am looking for some help to contribute an open source 
 <!--
 **genedy377/genedy377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -44,3 +46,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :zap: Github Stats
+
+<img alt="egenedy97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=egenedy97&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs" />
